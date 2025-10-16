@@ -1,0 +1,4 @@
+https://api.agify.io?name=michael
+https://api.nationalize.io?name=oliver
+https://dog.ceo/api/breeds/image/random
+https://api.adviceslip.com/advice
